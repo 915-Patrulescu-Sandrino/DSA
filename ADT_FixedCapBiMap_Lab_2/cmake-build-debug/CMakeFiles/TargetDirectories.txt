@@ -1,3 +1,0 @@
-/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/LAB2_FixedCapBiMap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/LAB2_FixedCapBiMap/cmake-build-debug/CMakeFiles/edit_cache.dir
-/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/LAB2_FixedCapBiMap/cmake-build-debug/CMakeFiles/LAB2_FixedCapBiMap.dir
