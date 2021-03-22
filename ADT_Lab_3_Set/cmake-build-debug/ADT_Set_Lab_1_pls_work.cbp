@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ADT_Set_Lab_1_pls_work"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADT_Set_Lab_1_pls_work">
+				<Option output="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/ADT_Set_Lab_1_pls_work" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADT_Set_Lab_1_pls_work"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ADT_Set_Lab_1_pls_work/fast">
+				<Option output="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/ADT_Set_Lab_1_pls_work" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 ADT_Set_Lab_1_pls_work/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/media/kamui/2454C0AC54C08252/Uni/S2.Data\ Structures\ and\ Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/App.cpp">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/ExtendedTest.cpp">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/ExtendedTest.h">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/Set.cpp">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/Set.h">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/SetIterator.cpp">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/SetIterator.h">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/ShortTest.cpp">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/ShortTest.h">
+			<Option target="ADT_Set_Lab_1_pls_work"/>
+		</Unit>
+		<Unit filename="/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

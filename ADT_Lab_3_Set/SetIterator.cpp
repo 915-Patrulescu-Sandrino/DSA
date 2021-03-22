@@ -1,33 +1,47 @@
 #include "SetIterator.h"
 #include "Set.h"
+#include <exception>
 
 
 SetIterator::SetIterator(const Set& m) : set(m)
 {
-	//TODO - Implementation
+    this->current = 0;
 }
+// Theta(1)
 
 
 void SetIterator::first() {
-	//TODO - Implementation
+    this->current = 0;
 }
+// Theta(1)
 
 
 void SetIterator::next() {
-	//TODO - Implementation
+    if(this->current == this->set.nr_Elems){
+        throw std::exception();
+    }
+    else{
+        this->current = this->current + 1;
+    }
 }
+// Theta(1)
 
 
 TElem SetIterator::getCurrent()
 {
-	//TODO - Implementation
-	return NULL_TELEM;
+    if(this->current == this->set.nr_Elems){
+        throw std::exception();
+    }
+    return this->set.data[this->current];
 }
+// Theta(1)
+
 
 bool SetIterator::valid() const {
-	//TODO - Implementation
-	return false;
+    if(this->current < this->set.nr_Elems){
+        return true;
+    }
+    return false;
 }
-
-
+// Theta(1)
 

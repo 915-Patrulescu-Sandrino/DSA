@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/Set.cpp
+Set.h
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/Set.h
+SetIterator.h
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/SetIterator.h
+
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/Set.h
+
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/SetIterator.h
+Set.h
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/Set.h
+

@@ -1,0 +1,1 @@
+/bin/g++-9  -g   CMakeFiles/ADT_Set_Lab_1_pls_work.dir/App.cpp.o CMakeFiles/ADT_Set_Lab_1_pls_work.dir/Set.cpp.o CMakeFiles/ADT_Set_Lab_1_pls_work.dir/SetIterator.cpp.o CMakeFiles/ADT_Set_Lab_1_pls_work.dir/ExtendedTest.cpp.o CMakeFiles/ADT_Set_Lab_1_pls_work.dir/ShortTest.cpp.o  -o ADT_Set_Lab_1_pls_work 

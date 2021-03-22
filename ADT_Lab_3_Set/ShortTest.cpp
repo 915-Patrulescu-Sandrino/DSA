@@ -3,34 +3,53 @@
 #include "Set.h"
 #include "SetIterator.h"
 
-void testAll() { 
-	Set s;
-	assert(s.isEmpty() == true);
-	assert(s.size() == 0); 
-	assert(s.add(5)==true);
-	assert(s.add(1)==true);
-	assert(s.add(10)==true);
-	assert(s.add(7)==true);
-	assert(s.add(1)==false);
-	assert(s.add(10)==false);
-	assert(s.add(-3)==true);
-	assert(s.size() == 5);
-	assert(s.search(10) == true);
-	assert(s.search(16) == false);
-	assert(s.remove(1) == true);
-	assert(s.remove(6) == false);
-	assert(s.size() == 4);
 
-
-	SetIterator it = s.iterator();
-	it.first();
-	int sum = 0;
-	while (it.valid()) {
-		TElem e = it.getCurrent();
-		sum += e;
-		it.next();
-	}
-	assert(sum == 19);
-
+void test_range(){
+    // test range
+    Set s1;
+    assert(s1.getRange() == -1);
+    s1.add(16);
+    assert(s1.getRange() == 0);
+    s1.add(20);
+    assert(s1.getRange() == 4);
+    s1.add(-5);
+    assert(s1.getRange() == 25);
+    s1.add(9);
+    s1.add(2);
+    s1.add(-7);
+    s1.add(17);
+    assert(s1.getRange() == 27);
 }
 
+
+void testAll() {
+    Set s;
+    assert(s.isEmpty() == true);
+    assert(s.size() == 0);
+    assert(s.add(5)==true);
+    assert(s.add(1)==true);
+    assert(s.add(10)==true);
+    assert(s.add(7)==true);
+    assert(s.add(1)==false);
+    assert(s.add(10)==false);
+    assert(s.add(-3)==true);
+    assert(s.size() == 5);
+    assert(s.search(10) == true);
+    assert(s.search(16) == false);
+    assert(s.remove(1) == true);
+    assert(s.remove(6) == false);
+    assert(s.size() == 4);
+
+
+    SetIterator it = s.iterator();
+    it.first();
+    int sum = 0;
+    while (it.valid()) {
+        TElem e = it.getCurrent();
+        sum += e;
+        it.next();
+    }
+    assert(sum == 19);
+
+    test_range();
+}

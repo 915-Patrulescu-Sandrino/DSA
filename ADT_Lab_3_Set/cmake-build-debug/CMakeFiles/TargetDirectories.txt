@@ -1,0 +1,3 @@
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/kamui/2454C0AC54C08252/Uni/S2.Data Structures and Algorithms/ADT_Set_Lab_1_pls_work/cmake-build-debug/CMakeFiles/ADT_Set_Lab_1_pls_work.dir
